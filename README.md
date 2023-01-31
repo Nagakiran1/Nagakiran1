@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api?username=Nagakiran1&show_icons=true&theme=radical&hide_border=true"
   style="width: 45%; height: 100%"
 />
-<a href="https://github.com/Nagakir1n">
+<a href="https://github.com/Nagakiran1">
   <img
     alt="Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Nagakiran1&theme=redical&hide_border=true"
