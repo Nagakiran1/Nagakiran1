@@ -18,6 +18,11 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api?username=Nagakiran1&show_icons=true&theme=radical&hide_border=true"
   style="width: 45%; height: 100%"
 />
+/><img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Nagakiran1&theme=radical&hide_border=true"
+  style="width: 50%"
+/>
+
 <a href="https://github.com/Nagakiran1">
   <img
     alt="Activity Graph"
@@ -28,7 +33,4 @@ Here are some ideas to get you started:
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagakiran1&layout=compact&theme=radical&hide_border=true"
   style="width: 50%"
-/><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Nagakiran1&theme=radical&hide_border=true"
-  style="width: 50%"
-/>
+
