@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   src="https://github-readme-streak-stats.herokuapp.com/?user=Nagakiran1&theme=radical&hide_border=true"
   style="width: 50%"
 />
+
+[![Nagakiran1's GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagakiran1&theme=default)](https://github.com/Nagakiran1)
 <!--  
 
 <a href="https://github.com/Nagakiran1">
