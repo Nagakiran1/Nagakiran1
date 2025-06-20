@@ -23,7 +23,15 @@ Here are some ideas to get you started:
   style="width: 50%"
 />
 
-[![Nagakiran1's GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagakiran1&theme=default)](https://github.com/Nagakiran1)
+<img
+  src="https://streak-stats.demolab.com/?user=Nagakiran1&theme=dark&hide_border=true&date_format=%5BY%5D"
+  style="width: 50%"
+/>
+
+
+
+
+
 <!--  
 
 <a href="https://github.com/Nagakiran1">
