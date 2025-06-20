@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   <img
     alt="Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Nagakiran1&theme=redical&hide_border=true"
-    style="width: 54%; height: 20%"
+    style="width: 20%; height: 20%"
 /></a>
 <br />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagakiran1&layout=compact&theme=radical&hide_border=true"
-  style="width: 50%"
+  style="width: 20%"
 />
 
 
