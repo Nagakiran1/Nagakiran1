@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img
     alt="Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Nagakiran1&theme=redical&hide_border=true"
-    style="width: 54%; height: 60%"
+    style="width: 54%; height: 20%"
 /></a>
 <br />
 <img
