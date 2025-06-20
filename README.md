@@ -18,11 +18,16 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api?username=Nagakiran1&show_icons=true&theme=radical&hide_border=true"
   style="width: 45%; height: 100%"
 />
+
+
+<!--  
+
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Nagakiran1&theme=radical&hide_border=true"
   style="width: 50%"
 />
 
+-->
 <img
   src="https://streak-stats.demolab.com/?user=Nagakiran1&theme=dark&hide_border=true&date_format=%5BY%5D"
   style="width: 50%"
