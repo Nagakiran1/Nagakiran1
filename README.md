@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   src="https://github-readme-streak-stats.herokuapp.com/?user=Nagakiran1&theme=radical&hide_border=true"
   style="width: 50%"
 />
-<!-- 
+<!--  -->
 <a href="https://github.com/Nagakiran1">
   <img
     alt="Activity Graph"
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagakiran1&layout=compact&theme=radical&hide_border=true"
   style="width: 50%"
 />
- -->
+
 
